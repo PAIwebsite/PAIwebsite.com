@@ -1,1 +1,1 @@
-# PAIwebsite.github.com
+# PAIwebsite.github.io
